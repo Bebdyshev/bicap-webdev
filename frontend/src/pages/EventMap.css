@@ -1,0 +1,21 @@
+/* In your CSS file */
+.create-button {
+    position: absolute;
+    bottom: 5%;
+    z-index: 1100;
+    left: 42%;
+    padding: 10px 20px;
+    background-color: #f3a71a;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    transition: background-color 0.3s ease;
+    border: none;
+    text-decoration: none;
+  }
+  
+.create-button:hover {
+    background-color: #e3990f;
+  }
+  
