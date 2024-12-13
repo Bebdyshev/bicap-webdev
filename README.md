@@ -1,12 +1,12 @@
 
-## Установка и запуск
+# Установка и запуск
 
-# Frontend
+## Frontend
 ```bash
 cd frontend
 npm run dev
 ```
-# Backend
+## Backend
 ```bash
 cd backend
 python app.py
